@@ -2,41 +2,45 @@
 
 Welcome to my software development portfolio. Below are a few recent projects that demonstrate my skills in Python and C++.
 
-## 📌 Featured Projects
+## 🔹 Projects
 
 ### 🐍 Snake Game (Python)
-A terminal-based version of the classic Snake game.
-
-[View Repository] https://github.com/kmabin-dev/snake-game 
+**Technologies** Python
+**Features:** Player-controlled snake, collision detection.
+[View code ->] (https://github.com/kmabin-dev/snake-game)
 
 ### ✊🏽 Rock Paper Scissors Game (C++)
-A command-line game that lets the user play against the computer with input validation and scoring logic. 
+**Technologies** C++
+**Features** user input validation, scoring, simple AI opponent
+[View code ->] (https://github.com/kmabin-dev/rock-paper-scissors)
 
-[View Repository] https://github.com/kmabin-dev/rock-paper-scissors
-
-### 💸 Financial Calculator: Annuity (C++)
-A console application that calculates the future value of your annuity.
-
-[View Repository] https://github.com/kmabin-dev/future-annuity
+### 💸 Financial Calculator: Future Annuity (C++)
+**Technologies** C++ 
+**Features**
+[View code ->] (https://github.com/kmabin-dev/future-annuity)
 
 ### 💸 Financial Calculator: Compund Growth (C++)
-A console application that calculates the future value of your savings over time.
-
-[View Repository] https://github.com/kmabin-dev/compound-growth-annual/blob/main/README.md
+**Technologies** C++
+**Features**
+[View code ->] (https://github.com/kmabin-dev/compound-growth-annual)
 
 ### 🩸 Blood Transfusion Application: Compund Growth (C++)
-A console application that will predict the transfusion success rate based on the Donor's Blood Type and Rh Type. 
+**Technologies** C++
+**Features**
+[View code ->] (https://github.com/kmabin-dev/blood-application)
 
-[View Repository] https://github.com/kmabin-dev/blood-application/blob/main/README.md 
 
 ### 🍼 Predict Offspring Blood & Rh Type (C++)
-A console application that will predict the Rh Type and Blood Type will be for the offspring of two parents based on their own medical information. 
-
-[View Repository] https://github.com/kmabin-dev/predict-offspring-type/blob/main/README.md 
-
+**Technologies**
+**Features**
+[View code ->] (https://github.com/kmabin-dev/predict-offspring-type)
 
 
 --- 
+> 📚 **About Me:**
 > I am currently studying Computer Science and Engineering and actively seeking part-time or remote tech opportunities.
 
 Thanks for viewing my work!
+
+🌐 [GitHub Profile](https://github.com/kmabin-dev)
+
