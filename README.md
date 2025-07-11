@@ -37,4 +37,5 @@ A console application that will predict the Rh Type and Blood Type will be for t
 
 
 --- I am currently studying Computer Science and Engineering and actively seeking part-time or remote tech opportunities.
+
 Thanks for viewing my work!
