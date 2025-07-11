@@ -37,7 +37,7 @@ Welcome to my software development portfolio. Below are a few recent projects th
 
 **Features**
 
-[View code ->] (https://github.com/kmabin-dev/blood-application)
+[View code ->] (https://github.com/kmabin-dev/blood-transfusion-application)
 
 
 ### 🍼 Predict Offspring Blood & Rh Type (C++)
